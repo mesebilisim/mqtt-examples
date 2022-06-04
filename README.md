@@ -20,6 +20,8 @@ Host : publicmqttbroker.iiotmq.com
 
 Test Topic : testtopic
 
+Test Timestamp Topic : timestamp
+
 TCP Port : 1883
 
 TCP/TLS SSL Port : 8883
